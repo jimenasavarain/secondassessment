@@ -1,0 +1,31 @@
+.range {
+    width: 48px;
+}
+
+#number {
+    background-color: black;
+    color: white;
+}
+
+#random {
+    background-color: hotpink;
+    color: purple;
+}
+
+#add {
+    background-color: gray;
+    color: white;
+}
+
+.avatars {
+    position: relative;
+    margin: .5%;
+}
+
+.smallitems {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
